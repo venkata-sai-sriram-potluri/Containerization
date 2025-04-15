@@ -5,7 +5,7 @@ This project demonstrates how to configure and manage container networking using
 
 ## 🔧 Technologies Used
 - Docker
-- Linux Networking Tools (`ip`, `brctl`, `iptables`)
+- Linux Networking Tools
 - AWS EC2
 
 ## 📌 Project Overview

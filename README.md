@@ -25,3 +25,8 @@ This setup includes:
 - Internet access from containers through host-managed NAT.
 - Secure and isolated container networking.
 - Hands-on demonstration of Docker's built-in networking capabilities.
+
+> **Note:**  
+> The source code and target deployment files (e.g., application source files) are not included in this repository.  
+> However, the project structure and configurations are designed to be compatible with standard AWS-based DevOps workflows.  
+> These files can be extracted, reused, or adapted from other AWS infrastructure or application repositories as needed for demonstration or production purposes.
